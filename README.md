@@ -1,5 +1,5 @@
 # sevagram-klopboormachine-opera
 
-herculeshof daalhof
+'jesuietenberg'
 
-https://nl.wikipedia.org/wiki/Woonkamer
+https://en.wikipedia.org/wiki/Opera
